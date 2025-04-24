@@ -1,0 +1,19 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  prefix: 'tw-',
+  content: [
+    "./resources/**/*.blade.php",
+    "./resources/**/*.js",
+    "./resources/**/*.vue",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        'gold': '#BC8947',
+        'softgold': '#c9a06b',
+      }
+    },
+  },
+  plugins: [],
+}
+
