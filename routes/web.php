@@ -20,8 +20,8 @@ Route::get('/beranda', function () {
     return view('beranda');
 });
 
-Route::get('/tentang-administrasi-bisnis', function(){
-    return view('tentang-administrasi-bisnis');
+Route::get('/tentang-pascasarjana', function(){
+    return view('tentang-pascasarjana');
 });
 
 Route::get('/tentang-visi-misi-tujuan', function (){

@@ -27,11 +27,11 @@
         </section>
 <!-- end page title -->
 {{-- start grid news--}}
-    <section id="berita-terbaru" class="bg-gradient-tranquil-white overflow-hidden position-relative overlap-height pb-5 md-pb-7 xs-pb-50px">
+    <section id="berita-terbaru" class="tw-section-dark overflow-hidden position-relative overlap-height pb-5 md-pb-7 xs-pb-50px">
         <div class="container overlap-gap-section">
             <div class="row justify-content-center align-items-center text-center text-md-start">
                 <div class="text-center" style="margin-top: 50px;">
-                    <h4 class="text-dark-gray fw-700 tw-mb-2" data-aos="fade-down" data-aos-duration="1000">
+                    <h4 class="tw-text-gold fw-700 tw-mb-2" data-aos="fade-down" data-aos-duration="1000">
                         Berita
                     </h4>
                 </div>                    
@@ -42,24 +42,24 @@
                     <li class="grid-sizer"></li>
                     <!-- start blog list -->
                     <li class="grid-item">
-                        <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover" style="min-height: 450px; display: flex; flex-direction: column; justify-content: space-between;">
-                            <div class="blog-image" style="height: 200px; overflow: hidden;">
+                        <div class="tw-bg-[#575757] card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover" style="min-height: 450px; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div class="blog-image tw-bg-[#575757] tw-border tw-border-[#575757]" style="height: 200px; overflow: hidden;">
                                 <a href="#" class="d-block">
                                     <img src="/images/gambar/bandung.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;" />
                                 </a>
                             </div>
-                            <div class="card-body p-12 lg-p-10" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div class="tw-bg-[#575757] card-body  p-12 lg-p-10" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
                                 <a href="#" 
-                                class="card-title mb-15px fw-600 fs-20 text-dark-gray d-inline-block" 
+                                class="mb-15px fw-600 fs-20 tw-text-softgold d-inline-block" 
                                 style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
                                     {!! Str::limit("Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quod totam, blanditiis, nihil adipisci quisquam, quos aut iure quo nam optio reprehenderit dolorem. Labore nostrum, ipsum nemo quae pariatur ea",90) !!}
                                 </a>
-                                <p style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
+                                <p class="tw-text-gray-200"style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
                                     {!! Str::limit("Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quod totam, blanditiis, nihil adipisci quisquam, quos aut iure quo nam optio reprehenderit dolorem. Labore nostrum, ipsum nemo quae pariatur ea", 120) !!}
                                 </p>
                                 <div class="d-flex justify-content-center align-items-center position-relative overflow-hidden fs-14 text-uppercase mt-auto">
                                     <div class="me-auto">
-                                        <span class="blog-date d-inline-block fw-600 text-dark-gray">
+                                        <span class="blog-date d-inline-block fw-600 tw-text-gold">
                                             15 Maret 2025
                                         </span>
                                     </div>
@@ -67,26 +67,25 @@
                             </div>
                         </div>
                     </li>
-                    <!-- end blog list -->
                     <li class="grid-item">
-                        <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover" style="min-height: 450px; display: flex; flex-direction: column; justify-content: space-between;">
-                            <div class="blog-image" style="height: 200px; overflow: hidden;">
+                        <div class="tw-bg-[#575757] card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover" style="min-height: 450px; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div class="blog-image tw-bg-[#575757] tw-border tw-border-[#575757]" style="height: 200px; overflow: hidden;">
                                 <a href="#" class="d-block">
                                     <img src="/images/gambar/bandung.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;" />
                                 </a>
                             </div>
-                            <div class="card-body p-12 lg-p-10" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div class="tw-bg-[#575757] card-body  p-12 lg-p-10" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
                                 <a href="#" 
-                                class="card-title mb-15px fw-600 fs-20 text-dark-gray d-inline-block" 
+                                class="mb-15px fw-600 fs-20 tw-text-softgold d-inline-block" 
                                 style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
                                     {!! Str::limit("Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quod totam, blanditiis, nihil adipisci quisquam, quos aut iure quo nam optio reprehenderit dolorem. Labore nostrum, ipsum nemo quae pariatur ea",90) !!}
                                 </a>
-                                <p style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
+                                <p class="tw-text-gray-200"style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
                                     {!! Str::limit("Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quod totam, blanditiis, nihil adipisci quisquam, quos aut iure quo nam optio reprehenderit dolorem. Labore nostrum, ipsum nemo quae pariatur ea", 120) !!}
                                 </p>
                                 <div class="d-flex justify-content-center align-items-center position-relative overflow-hidden fs-14 text-uppercase mt-auto">
                                     <div class="me-auto">
-                                        <span class="blog-date d-inline-block fw-600 text-dark-gray">
+                                        <span class="blog-date d-inline-block fw-600 tw-text-gold">
                                             15 Maret 2025
                                         </span>
                                     </div>
@@ -94,26 +93,25 @@
                             </div>
                         </div>
                     </li>
-                    <!-- end blog list -->
                     <li class="grid-item">
-                        <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover" style="min-height: 450px; display: flex; flex-direction: column; justify-content: space-between;">
-                            <div class="blog-image" style="height: 200px; overflow: hidden;">
+                        <div class="tw-bg-[#575757] card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover" style="min-height: 450px; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div class="blog-image tw-bg-[#575757] tw-border tw-border-[#575757]" style="height: 200px; overflow: hidden;">
                                 <a href="#" class="d-block">
                                     <img src="/images/gambar/bandung.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;" />
                                 </a>
                             </div>
-                            <div class="card-body p-12 lg-p-10" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                            <div class="tw-bg-[#575757] card-body  p-12 lg-p-10" style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
                                 <a href="#" 
-                                class="card-title mb-15px fw-600 fs-20 text-dark-gray d-inline-block" 
+                                class="mb-15px fw-600 fs-20 tw-text-softgold d-inline-block" 
                                 style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
                                     {!! Str::limit("Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quod totam, blanditiis, nihil adipisci quisquam, quos aut iure quo nam optio reprehenderit dolorem. Labore nostrum, ipsum nemo quae pariatur ea",90) !!}
                                 </a>
-                                <p style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
+                                <p class="tw-text-gray-200"style="overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">
                                     {!! Str::limit("Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quod totam, blanditiis, nihil adipisci quisquam, quos aut iure quo nam optio reprehenderit dolorem. Labore nostrum, ipsum nemo quae pariatur ea", 120) !!}
                                 </p>
                                 <div class="d-flex justify-content-center align-items-center position-relative overflow-hidden fs-14 text-uppercase mt-auto">
                                     <div class="me-auto">
-                                        <span class="blog-date d-inline-block fw-600 text-dark-gray">
+                                        <span class="blog-date d-inline-block fw-600 tw-text-gold">
                                             15 Maret 2025
                                         </span>
                                     </div>
@@ -121,7 +119,6 @@
                             </div>
                         </div>
                     </li>
-                    <!-- end blog list -->
                 </ul>
             </div>
         </div>

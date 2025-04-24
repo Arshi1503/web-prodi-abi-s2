@@ -27,7 +27,7 @@
         </section>
 <!-- end page title -->
 {{-- start card --}}
-        <section>
+        <section class="tw-section-dark">
             <div class="tw-card">
                 <div>
                     <h3 class="tw-card-title">Akreditasi</h3>

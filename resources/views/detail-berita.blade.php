@@ -25,7 +25,7 @@
     </div>
 </section>
 <!-- end page title -->
-    <section>
+    <section class="tw-section-dark">
         <!-- start section -->
         <div class="container">
             <div class="row justify-content-center">
@@ -36,18 +36,18 @@
                     </div>
 
                     <!-- Nama dan Status -->
-                    <div class="section-text fs-18 text-dark-gray mt-3 mb-3">
+                    <div class="fs-18 tw-text-softgold mt-3 mb-3">
                         <span class="fw-600">15 Maret 2005</span>
                     </div>
 
                     <!-- Kata Sambutan (Full-width) -->
                     <div class="col-12">
-                        <p class="tw-text-2xl text-left">Pencapaian Mahasiswa Teknik Informatika pada Kompetisi Nasional Teknologi</p>
+                        <p class="tw-text-2xl text-left tw-text-gold">Pencapaian Mahasiswa Teknik Informatika pada Kompetisi Nasional Teknologi</p>
                     </div>
                 </div>
                     <!-- Kata Sambutan (Full-width) -->
                     <div class="col-12">
-                        <p class="section-text text-left">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, nesciunt rerum? Sunt numquam ut distinctio laboriosam dolores porro, pariatur corporis harum, iure, recusandae quibusdam. Neque veniam sapiente debitis natus doloribus.</p>
+                        <p class="text-left tw-text-gray-300">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, nesciunt rerum? Sunt numquam ut distinctio laboriosam dolores porro, pariatur corporis harum, iure, recusandae quibusdam. Neque veniam sapiente debitis natus doloribus.</p>
                     </div>
             </div>
         </div>

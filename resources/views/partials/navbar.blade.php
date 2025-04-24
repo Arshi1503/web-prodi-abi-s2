@@ -49,10 +49,10 @@
                       <ul class="navbar-nav alt-font tw-gap-6">
                           <li class="nav-item"><a href="/" class="nav-link tw-bg-[#BC8947]">Beranda</a></li>
                           <li class="nav-item dropdown simple-dropdown">
-                              <a href="/tentang-administrasi-bisnis" class="nav-link">Tentang Kami</a>
+                              <a href="/tentang-pascasarjana" class="nav-link">Tentang Kami</a>
                               <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                  <li><a href="/tentang-administrasi-bisnis">Tentang Administrasi Bisnis</a></li>
+                                  <li><a href="/tentang-pascasarjana">Tentang Pascasarjana</a></li>
                                   <li><a href="/tentang-visi-misi-tujuan">Visi, Misi, dan Tujuan</a></li>
                                   <li><a href="/tentang-struktur-organisasi">Struktur Organisasi</a></li>
                                   <li><a href="/tentang-fasilitas">Fasilitas</a></li>

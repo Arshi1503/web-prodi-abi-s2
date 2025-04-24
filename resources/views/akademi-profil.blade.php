@@ -26,7 +26,7 @@
             </div>
         </section>
 <!-- end page title -->
-    <section>
+    <section class="tw-section-dark">
             {{-- start card --}}
             <div class="tw-card tw-mb-12">
                 <div>
@@ -69,7 +69,7 @@
             {{-- Slider --}}
             <div class="row justify-content-center mb-3">
                 <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9 text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <h3 class="text-dark-gray ls-minus-1px">Testimoni Alumni</h3>
+                    <h3 class="ls-minus-1px tw-text-gold">Testimoni Alumni</h3>
                 </div>
             </div>
             <div class="row justify-content-center align-items-center mb-6 sm-mb-8 tw-mt-12" data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 100, "staggervalue": 150, "easing": "easeOutQuad" }'>
@@ -84,7 +84,7 @@
                                             <img alt="" class="tw-rounded-xl" src="/images/gambar/bandung.jpg">
                                         </div>
                                         <div class="col-lg-5 last-paragraph-no-margin md:tw-text-start tw-text-center">
-                                            <span class="mb-5px tw-block ls-1px fs-18 fw-500 text-dark-gray">test</span>
+                                            <span class="mb-5px tw-block ls-1px fs-18 fw-500 tw-text-gray-300">test</span>
                                             <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">test</span>
                                         </div>
                                     </div>
@@ -97,7 +97,7 @@
                                             <img alt="" class="tw-rounded-xl" src="/images/gambar/bandung.jpg">
                                         </div>
                                         <div class="col-lg-5 last-paragraph-no-margin md:tw-text-start tw-text-center">
-                                            <span class="mb-5px tw-block ls-1px fs-18 fw-500 text-dark-gray">Saya Bangga</span>
+                                            <span class="mb-5px tw-block ls-1px fs-18 fw-500 tw-text-gray-300">Saya Bangga</span>
                                             <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Fahrezzi</span>
                                         </div>
                                     </div>
@@ -105,8 +105,8 @@
                                 <!-- end testimonial item -->
                             </div>
                             <!-- start slider navigation -->
-                            <div class="swiper-button-previous-nav swiper-button-prev md-left-0px"><i class="feather icon-feather-arrow-left icon-extra-medium text-dark-gray"></i></div>
-                            <div class="swiper-button-next-nav swiper-button-next md-right-0px"><i class="feather icon-feather-arrow-right icon-extra-medium text-dark-gray"></i></div>
+                            <div class="swiper-button-previous-nav swiper-button-prev md-left-0px"><i class="feather icon-feather-arrow-left icon-extra-medium tw-text-gray-300"></i></div>
+                            <div class="swiper-button-next-nav swiper-button-next md-right-0px"><i class="feather icon-feather-arrow-right icon-extra-medium tw-text-gray-300"></i></div>
                             <!-- end slider pagination -->
                         </div>
                     </div>

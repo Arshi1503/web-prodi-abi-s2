@@ -27,7 +27,7 @@
         </section>
 <!-- end page title -->
 {{-- start card --}}
-        <section>
+        <section class="tw-section-dark">
             <div class="tw-space-y-20">
                 <div class="tw-card">
                     <div>
@@ -40,7 +40,7 @@
                 <div class="tw-card">
                     <div>
                         <h3 class="tw-card-title">Struktur Kurikulum</h3>
-                        <p class="tw-card-subtitle tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum ratione odio velit ea, recusandae sint obcaecati laborum porro sed deserunt! Veritatis perspiciatis repellendus sed id similique? Voluptate qui saepe nesciunt.
+                        <p class="tw-card-subtitle tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum ratione odio velit ea, recusandae sint obcaecati laborum porro sed deserunt! Veritatis perspiciatis repellendus sed id similique? Voluptate qui saepe nesciunt.
                         Id libero ea asperiores sequi repellendus obcaecati iste, blanditiis quia corrupti veniam rem beatae excepturi assumenda voluptatum nesciunt quos fugiat perspiciatis non nihil rerum eius consequuntur. Quasi reiciendis non cumque.
                         Iste laborum cum odio asperiores consequuntur sunt temporibus dolor ad, voluptatum quibusdam, dolorum ex quo fugiat, repellendus et voluptatem. Dolor consequatur quod mollitia ipsum culpa doloremque modi porro quos sunt.</p>
                         {{-- Start Table Nav --}}
@@ -84,7 +84,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}
@@ -117,7 +117,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}{{-- Start Table --}}
@@ -149,7 +149,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}{{-- Start Table --}}
@@ -181,7 +181,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}{{-- Start Table --}}
@@ -213,7 +213,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}{{-- Start Table --}}
@@ -245,7 +245,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}{{-- Start Table --}}
@@ -277,7 +277,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}{{-- Start Table --}}
@@ -309,7 +309,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p class="tw-card-subtitle tw-text-md tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
+                                <p class="tw-card-subtitle tw-text-md tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto tw-mt-4"> Jumlah SKS Yang Ditawarkan : 9</p>
                             </div>
                         </div>
                         {{-- End Table --}}
@@ -557,7 +557,7 @@
                 {{-- Start Card --}}
                 <div class="tw-card">
                     <h3 class="tw-card-title">Tracer Study</h3>
-                    <p class="tw-card-subtitle tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias itaque voluptas beatae nostrum rerum vero, modi autem totam similique ducimus voluptatem tenetur magnam iste recusandae corporis explicabo, cupiditate quo perspiciatis?</p>
+                    <p class="tw-card-subtitle tw-text-gray-300 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias itaque voluptas beatae nostrum rerum vero, modi autem totam similique ducimus voluptatem tenetur magnam iste recusandae corporis explicabo, cupiditate quo perspiciatis?</p>
                 </div>
 
             </div>

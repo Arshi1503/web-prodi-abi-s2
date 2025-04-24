@@ -26,66 +26,56 @@
         </section>
 <!-- end page title -->
 {{-- start content --}}
-<section>
+<section class="tw-section-dark">
     <div class="container">
         <div class="row">
             <!-- Profil Dosen -->
-            <div class="col-md-4 text-center p-3 border rounded shadow-sm">
+            <div class="col-md-4 text-center p-3 tw-border tw-rounded-xl tw-border-[#424242]">
                 <img src="{{ asset('images/gambar/foto2.jpg') }}" class="img-fluid rounded-circle tw-mx-auto tw-my-auto" width="150" alt="Foto Dosen">
-                <h5 class="mt-2">Lorem Ipsum Dolor</h5>
-                <h6>Ketua Guild</h6>
-                <p><i class="bi bi-person"></i> 405019203</p>
-                <p><i class="bi bi-envelope"></i> sririani@iwu.ac.id</p>
+                <h5 class="mt-2 tw-text-softgold">Lorem Ipsum Dolor</h5>
+                <h6 class="tw-text-gold">Ketua Guild</h6>
+                <p class="tw-text-gray-300"><i class="bi bi-person"></i> 405019203</p>
+                <p class="tw-text-gray-300"><i class="bi bi-envelope"></i> sririani@iwu.ac.id</p>
                 <a href="#" class="btn btn-secondary w-100 mb-2">Google Scholar</a>
                 <a href="#" class="btn btn-warning w-100">Scopus</a>
             </div>
-            
+
             <!-- Mata Kuliah dan Jadwal -->
             <div class="col-md-8">
-                <h4>Mata Kuliah yang Diampu dan Jadwal Perkuliahan</h4>
-                <table class="table table-bordered mt-3">
-                    <thead class="table-light">
-                        <tr>
-                            <th>No</th>
-                            <th>Nama Mata Kuliah</th>
-                            <th>Hari</th>
-                            <th>Waktu</th>
-                            <th>Ruang</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Biologi Sel</td>
-                            <td>Sabtu</td>
-                            <td>07.00-09.30</td>
-                            <td>R. 201 Kampus 1</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>Struktur dan Perkembangan Tumbuhan</td>
-                            <td>Rabu</td>
-                            <td>12.50-15.20</td>
-                            <td>R. 203 Kampus 1</td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>Komputer Aplikasi IT III (Bioinformatika I)</td>
-                            <td>Senin</td>
-                            <td>12.50-15.20</td>
-                            <td>R. 108 Kampus 1</td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>Biostatistika</td>
-                            <td>Senin</td>
-                            <td>07.00-09.30</td>
-                            <td>R. 201 Kampus 1</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="tw-overflow-x-auto tw-card tw-rounded-xl tw-shadow-md tw-p-4">
+                    <h6 class="tw-text-softgold tw-font-semibold tw-mb-4">Mata Kuliah yang Diampu dan Jadwal Perkuliahan</h6>
+                    <table class="tw-w-full tw-text-sm tw-text-left tw-text-gray-700 tw-border-collapse">
+                        <thead class="tw-bg-[#d9d9d9] tw-text-[#3e3e3e]">
+                            <tr>
+                                <th class="tw-px-4 tw-py-3 tw-border tw-border-[#c0c0c0]">No</th>
+                                <th class="tw-px-4 tw-py-3 tw-border tw-border-[#c0c0c0]">Nama Mata Kuliah</th>
+                                <th class="tw-px-4 tw-py-3 tw-border tw-border-[#c0c0c0]">Hari</th>
+                                <th class="tw-px-4 tw-py-3 tw-border tw-border-[#c0c0c0]">Waktu</th>
+                                <th class="tw-px-4 tw-py-3 tw-border tw-border-[#c0c0c0]">Ruang</th>
+                            </tr>
+                        </thead>
+                        <tbody class="tw-bg-white tw-text-[#333]">
+                            <tr class="hover:tw-bg-[#fff9e6]">
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">1</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">Biologi Sel</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">Sabtu</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">07.00-09.30</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">R. 201 Kampus 1</td>
+                            </tr>
+                            <tr class="hover:tw-bg-[#fff9e6]">
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">1</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">Biologi Sel</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">Sabtu</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">07.00-09.30</td>
+                                <td class="tw-px-4 tw-py-3 tw-border tw-border-[#e0e0e0]">R. 201 Kampus 1</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
+    </div>
 </section>
 {{-- end content --}}
+
 @endsection

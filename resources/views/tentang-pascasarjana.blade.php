@@ -11,7 +11,7 @@
                     <div class="col-12 text-center position-relative page-title-extra-large">
                         <div class="d-flex flex-column small-screen">
                             <div class="mt-auto" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 400, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                                <h1 class="text-white alt-font mb-0 text-shadow-extra-large fw-500 ls-minus-1px">Administarsi Bisnis</h1>
+                                <h1 class="text-white alt-font mb-0 text-shadow-extra-large fw-500 ls-minus-1px">Pascasarjana</h1>
                             </div>
                             <!-- start breadcrumb -->
                             <div class="mt-auto justify-content-center breadcrumb breadcrumb-style-01 alt-font text-white">
@@ -25,21 +25,21 @@
                 </div>
             </div>
         </section>
-        <section class="border-bottom border-color-extra-medium-gray">
+        <section class="tw-border tw-border-x tw-border-[#2E2E2E] tw-bg-[#2E2E2E]">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-5 col-lg-6 md-mb-9 sm-mb-50px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                         <span class="fs-17 d-inline-block fw-500 text-uppercase text-base-color ls-1px mb-15px">Tentang</span>
-                        <h1 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-35px shadow-none" data-shadow-animation="true" data-animation-delay="700">Administarsi <span class="text-highlight">Bisnis<span class="bg-base-color h-10px sm-h-8px bottom-20px md-bottom-17px opacity-5 separator-animation"></span></span></h1>
+                        <h1 class="alt-font fw-600 tw-text-softgold ls-minus-2px mb-35px shadow-none" data-shadow-animation="true" data-animation-delay="700">Pascasarjana <span class="text-highlight"><span class="bg-base-color h-10px sm-h-8px bottom-20px md-bottom-17px opacity-5 separator-animation"></span></span></h1>
                         <div class="row">
                             <div class="col-lg-12 mb-25px last-paragraph-no-margin">
-                                <p class="w-85 md-w-95 sm-w-100">Administrasi bisnis adalah ilmu yang mempelajari pengelolaan berbagai aspek dalam perusahaan atau organisasi. Tujuannya adalah untuk menjaga kestabilan dan perkembangan perusahaan, serta memperoleh keuntungan. </p>
+                                <p class="w-85 md-w-95 sm-w-100 tw-text-gray-300">Administrasi bisnis adalah ilmu yang mempelajari pengelolaan berbagai aspek dalam perusahaan atau organisasi. Tujuannya adalah untuk menjaga kestabilan dan perkembangan perusahaan, serta memperoleh keuntungan. </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6 offset-xl-1 col-lg-6 position-relative md-mb-6 sm-mb-50px">
                         <div class="overflow-hidden text-end w-80 ms-auto animation-float" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 0 }'>
-                            <img src="images/gambar/iwupaster.jpg" alt="" class="w-80 border-radius-5px">
+                            <img src="{{asset('images/gambar/test.jpg')}}" alt="" class="w-80 border-radius-5px">
                         </div>
                         <div class="position-absolute bottom-minus-50px w-60 atropos" data-atropos data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 500 }'>
                             <div class="atropos-scale">

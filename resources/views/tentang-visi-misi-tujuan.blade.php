@@ -27,7 +27,7 @@
         </section>
 <!-- end page title -->
 {{-- start card --}}
-        <section>
+        <section class="tw-border tw-border-x tw-border-[#2E2E2E] tw-bg-[#2E2E2E]">
             <div class="tw-card">
                 <h3 class="tw-card-title">Visi, Misi, Tujuan</h3>
                 <div class="tw-tab-nav">
@@ -69,14 +69,14 @@
                 <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="misi">
                     <div class="tw-overflow-x-auto">
                         <table class="tw-table">
-                          <thead class="tw-text-lg tw-text-[#BC8947] tw-uppercase tw-bg-slate-200">
+                          <thead class="tw-table-head">
                             <tr>
                               <th scope="col" class="tw-pl-6 tw-py-3">No</th>
                               <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center">Misi</th>
                             </tr>
                           </thead>
                           <tbody>
-                            <tr class="tw-bg-white tw-border-b tw-border-gray-400 tw-text-justify">
+                            <tr class="tw-table-row">
                               <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
                               <td class="tw-px-6 tw-py-4">	
                                 Menyelenggarakan pendidikan di bidang Ilmu Teknik Informatika yang berkualitas dan relevan dengan tuntutan pengguna lulusan dalam rangka mencapai pembangunan nasional dan baku internasional.
@@ -93,19 +93,19 @@
                 <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="tujuan">
                     <div class="tw-overflow-x-auto">
                         <table class="tw-table">
-                          <thead class="tw-text-lg tw-text-[#BC8947] tw-uppercase tw-bg-slate-200">
+                          <thead class="tw-table-head">
                             <tr>
                               <th scope="col" class="tw-pl-6 tw-py-3">No</th>
                               <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center">Tujuan</th>
                             </tr>
                           </thead>
                           <tbody>
-                            <tr class="tw-bg-white tw-border-b tw-border-gray-400 tw-text-justify">
+                            <tr class="tw-table-row">
                               <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
                               <td class="tw-px-6 tw-py-4">	
                                 Menghasilkan lulusan di bidang Teknik Informatika yang berkualitas, berdedikasi dan memiliki komitmen terhadap pembangunan nasional.</td>
                             </tr>
-                            <tr class="tw-bg-white tw-border-b tw-border-gray-400 tw-text-justify last:tw-border-0">
+                            <tr class="tw-table-row last:tw-border-0">
                               <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">2</td>
                               <td class="tw-px-6 tw-py-4">Menghasilkan lulusan yang kompeten di bidang informatika, kreatif, inovatif, dan mampu bersaing di tingkat nasional maupun internasional. 
                               </td>

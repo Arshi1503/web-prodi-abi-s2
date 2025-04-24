@@ -26,7 +26,7 @@
             </div>
         </section>
 <!-- end page title -->
-    <section>
+    <section class="tw-section-dark">
             {{-- start card --}}
             <div class="tw-card tw-mb-12">
                 <div>
