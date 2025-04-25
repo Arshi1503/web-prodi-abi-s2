@@ -1,10 +1,5 @@
 <footer class="footer-light bg-dark-gray"> 
     <div class="container">
-        <div class="row justify-content-center mb-5 xs-mb-20px">
-            <div class="col-md-12 col-sm-10 text-center">
-                <h4 class="tw-text-white fw-500 ls-minus-1px">Bagaimana ? Tetarik ? <a href="https://pmb.iwu.ac.id/" class="text-base-color fw-500 text-decoration-line-bottom-medium">Daftar Sekarang!</a></h4>
-            </div>
-        </div>
         <div class="row justify-content-center" style="flex-direction: row">
             <!-- start footer column -->
             <div class="col-lg-3 col-md-12 col-sm-6 order-4 order-lg-1 order-md-4 order-sm-3 md-mt-35px text-center text-sm-start text-md-center text-lg-start last-paragraph-no-margin">

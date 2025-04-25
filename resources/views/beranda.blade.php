@@ -132,6 +132,13 @@
                     </div>
                 </div>
             </div>
+            <div class="container tw-my-20 tw-dark-section">
+                <div class="row justify-content-center mb-5 xs-mb-20px">
+                    <div class="col-md-12 col-sm-10 text-center">
+                        <h4 class="alt-font tw-text-gray-300 fw-500 ls-minus-1px">Bagaimana ? Tetarik ? <a href="https://pmb.iwu.ac.id/" class="text-base-color fw-500 text-decoration-line-bottom-medium">Daftar Sekarang!</a></h4>
+                    </div>
+                </div>
+            </div>
         </section>
         <!-- start section -->
         <!-- end section -->
